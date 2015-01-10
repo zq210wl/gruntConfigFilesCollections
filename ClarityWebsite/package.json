@@ -1,0 +1,42 @@
+{
+  "name": "clarity-website",
+  "version": "0.0.1",
+  "description": "Parallax Website",
+  "scripts": {
+    "test": "echo no tests yet"
+  },
+  "repository": {
+    "type": " ",
+    "url": " "
+  },
+  "author": "Unknown",
+  "license": "Copyright 2014, Unknown",
+  "readme": "README",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+    "grunt-cli": "~0.1.13",
+    "bower": "~1.3.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-compass": "~0.7.2",
+    "time-grunt": "~0.2.10",
+    "grunt-contrib-htmlmin": "~0.2.0",
+    "grunt-concurrent": "~0.5.0",
+    "grunt-contrib-sass": "~0.7.3",
+    "grunt-autoprefixer": "~0.7.2",
+    "grunt": "~0.4.2",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "load-grunt-tasks": "~0.4.0",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-cssmin": "~0.9.0",
+    "grunt-contrib-compress": "~0.7.0",
+    "grunt-html-build": "~0.3.2",
+    "grunt-contrib-connect": "~0.7.1",
+    "grunt-sitemap": "~1.1.0",
+    "grunt-robots-txt": "~0.3.0"
+  }
+}
